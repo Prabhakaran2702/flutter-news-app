@@ -1,1 +1,1 @@
-# Template for news app in flutter platform
+# News app template in flutter platform
